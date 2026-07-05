@@ -1,15 +1,14 @@
 # Coursework 1: MA22019, Introduction to Data Science
 bjj36
 
-<script src="coursework_01_files/libs/kePrint-0.0.1/kePrint.js"></script>
-<link href="coursework_01_files/libs/lightable-0.0.1/lightable.css" rel="stylesheet" />
+<script src="coursework_01_files/libs/kePrint-0.0.1/kePrint.js"></script>
+
+<link href="coursework_01_files/libs/lightable-0.0.1/lightable.css" rel="stylesheet" />
+
 
 <!--- DO NOT DELETE THIS LINE --->
 
 <!--- METADATA ANCHOR: MA22019-CW1-2026 --->
-
-Please read the `coursework_01_instructions.pdf` for the full context,
-data dictionary, and detailed task requirements before starting.
 
 ``` r
 library(tidyverse)
