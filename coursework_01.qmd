@@ -9,8 +9,6 @@ prefer-html: true
 
 <!--- METADATA ANCHOR: MA22019-CW1-2026 --->
 
-Please read the `coursework_01_instructions.pdf` for the full context, data dictionary, and detailed task requirements before starting.
-
 ```{r}
 #| label: setup
 #| message: false
