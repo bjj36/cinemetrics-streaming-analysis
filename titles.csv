@@ -1,0 +1,111 @@
+movie_id,movie_title,release_year,budget_usd,genre_tags
+1,The Dark Knight,2008,185000000,action
+2,Mad Max: Fury Road,2015,150000000,"action, high-octane"
+3,Gladiator,2000,103000000,"action, high-octane"
+4,Die Hard,1988,28000000,action
+5,Terminator 2,1991,100000000,"action, high-octane"
+6,Pulp Fiction,1994,8500000,"action, high-octane"
+7,Inception,2010,160000000,Science fiction
+8,Interstellar,2014,165000000,"sci-fi, fantasy"
+9,Dune,2021,165000000,sci-fi
+10,The Matrix,1999,63000000,Science fiction
+11,Jurassic Park,1993,63000000,Science fiction
+12,Blade Runner 2049,2017,150000000,"sci-fi, fantasy"
+13,Arrival,2016,NA,"sci-fi, fantasy"
+14,Ex Machina,2014,15000000,sci-fi
+15,The Martian,2015,108000000,"sci-fi, fantasy"
+16,Avatar,2009,237000000,Science fiction
+17,Everything Everywhere All At Once,2022,25000000,"sci-fi, fantasy"
+18,Superbad,2007,20000000,"comedy, family"
+19,Hot Fuzz,2007,16000000,"comedy, family"
+20,Shaun of the Dead,2004,6000000,"comedy, family"
+21,Step Brothers,2008,65000000,comedy
+22,The Hangover,2009,35000000,comedy
+23,The Grand Budapest Hotel,2014,25000000,comedy
+24,Bridesmaids,2011,32500000,comedy
+25,Mean Girls,2004,18000000,"comedy, family"
+26,Anchorman,2004,26000000,comedy
+27,Knives Out,2019,40000000,comedy
+28,Barbie,2023,145000000,"comedy, family"
+29,Wonka,2023,125000000,"comedy, family"
+30,Poor Things,2023,35000000,comedy
+31,Triangle of Sadness,2022,15600000,"comedy, family"
+32,Singin' in the Rain,1952,2540000,"comedy, family"
+33,Some Like It Hot,1959,NA,comedy
+34,The Godfather,1972,7000000,"drama, critically-acclaimed"
+35,The Godfather Part II,1974,13000000,"drama, emotional"
+36,The Shawshank Redemption,1994,25000000,"drama, emotional"
+37,Schindler's List,1993,NA,"drama, critically-acclaimed"
+38,Forrest Gump,1994,55000000,Drama
+39,Parasite,2019,11400000,"drama, critically-acclaimed"
+40,Whiplash,2014,3300000,"drama, critically-acclaimed"
+41,The Social Network,2010,40000000,"drama, emotional"
+42,Nomadland,2020,5000000,Drama
+43,Moonlight,2016,1500000,"drama, emotional"
+44,Little Women,2019,40000000,Drama
+45,Oppenheimer,2023,100000000,"drama, emotional"
+46,Anatomy of a Fall,2023,6700000,"drama, emotional"
+47,The Banshees of Inisherin,2022,20000000,Drama
+48,Coda,2021,10000000,Drama
+49,Minari,2020,2000000,"drama, critically-acclaimed"
+50,Sound of Metal,2019,5400000,"drama, emotional"
+51,Promising Young Woman,2020,10000000,"drama, critically-acclaimed"
+52,12 Angry Men,1957,340000,"drama, critically-acclaimed"
+53,The Shining,1980,19000000,horror
+54,Get Out,2017,4500000,scary
+55,Hereditary,2018,10000000,scary
+56,A Quiet Place,2018,17000000,scary
+57,Alien,1979,10700000,scary
+58,Midsommar,2019,9000000,scary
+59,The Lighthouse,2019,11000000,terror
+60,Barbarian,2022,4500000,horror
+61,Smile,2022,17000000,horror
+62,The Black Phone,2021,NA,horror
+63,Psycho,1960,807000,scary
+64,Free Solo,2018,2000000,"documentary, real-world"
+65,My Octopus Teacher,2020,NA,"documentary, real-world"
+66,March of the Penguins,2005,8000000,"documentary, real-world"
+67,Jiro Dreams of Sushi,2011,NA,"documentary, real-world"
+68,The Act of Killing,2012,1000000,Documentary
+69,Fire of Love,2022,NA,"documentary, real-world"
+70,Summer of Soul,2021,NA,"documentary, real-world"
+71,Won't You Be My Neighbor?,2018,NA,"documentary, real-world"
+72,Blackfish,2013,1500000,"documentary, real-world"
+73,13th,2016,1000000,Documentary
+74,Toy Story,1995,30000000,"animation, kids"
+75,Spider-Man: Into the Spider-Verse,2018,90000000,animated
+76,Spider-Man: Across the Spider-Verse,2023,100000000,animation
+77,Spirited Away,2001,19000000,"animation, kids"
+78,Finding Nemo,2003,94000000,animated
+79,The Lion King,1994,45000000,animation
+80,Soul,2020,150000000,"animation, kids"
+81,Puss in Boots: The Last Wish,2022,90000000,animation
+82,Guillermo del Toro's Pinocchio,2022,NA,animated
+83,Marcel the Shell with Shoes On,2022,6000000,"animation, kids"
+84,My Neighbor Totoro,1988,3700000,"animation, kids"
+85,Coco,2017,175000000,animated
+86,Up,2009,175000000,animation
+87,WALL-E,2008,180000000,animation
+88,Inside Out,2015,175000000,animated
+89,Titanic,1997,200000000,Romance
+90,La La Land,2016,30000000,romantic comedy
+91,The Notebook,2004,29000000,Romance
+92,When Harry Met Sally,1989,16000000,romantic
+93,Pride & Prejudice,2005,28000000,rom-com
+94,About Time,2013,12000000,rom-com
+95,Notting Hill,1999,42000000,rom-com
+96,10 Things I Hate About You,1999,13000000,Romance
+97,Portrait of a Lady on Fire,2019,5400000,rom-com
+98,Past Lives,2023,12000000,rom-com
+99,Before Sunrise,1995,2500000,Romance
+100,Before Sunset,2004,2700000,rom-com
+97,Portrait of a Lady on Fire,2019,5400000,rom-com
+35,The Godfather Part II,1974,13000000,"drama, emotional"
+27,Knives Out,2019,40000000,comedy
+87,WALL-E,2008,180000000,animation
+24,Bridesmaids,2011,32500000,comedy
+28,Barbie,2023,145000000,"comedy, family"
+92,When Harry Met Sally,1989,16000000,romantic
+56,A Quiet Place,2018,17000000,scary
+7,Inception,2010,160000000,Science fiction
+72,Blackfish,2013,1500000,"documentary, real-world"
