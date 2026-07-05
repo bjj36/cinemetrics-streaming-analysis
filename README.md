@@ -1,5 +1,5 @@
 # Cinemetrics Streaming Data Analysis
-Exploratory data analysis and text mining on a fictional streaming dataset using R and tidytext. Completed as assessed coursework for MA22019 Introduction to Data Science at the University of Bath (achieved 86%). The datasets used in this project are entirely fictional and were provided as part of the coursework brief. The streaming platform, movies, and user data are all synthetic.
+Exploratory data analysis and text mining on a fictional streaming dataset using R and tidytext. Completed as assessed coursework for MA22019 Introduction to Data Science at the University of Bath (achieved 78%). The datasets used in this project are entirely fictional and were provided as part of the coursework brief. The streaming platform, movies, and user data are all synthetic.
 
 ## Overview
 This project analyses a fictional streaming platform dataset for a service called CineMetrics, working across three linked datasets covering movie metadata, user information, and streaming history. The analysis covers data wrangling, exploratory data analysis, and text mining to derive insights about user engagement and content performance.
