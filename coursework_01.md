@@ -1,5 +1,4 @@
 # Coursework 1: MA22019, Introduction to Data Science
-bjj36
 
 <script src="coursework_01_files/libs/kePrint-0.0.1/kePrint.js"></script>
 
